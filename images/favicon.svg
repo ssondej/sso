@@ -1,0 +1,5 @@
+<svg role="img" aria-label="new york city logo" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64">
+	<path fill="#6699CC" d="M58,32H38l-6,6v20l6,6h20l6-6v-6l-2-2H52v2h-8v-8h8v2h10l2-2v-6L58,32z"/>
+	<path fill="#80B34C" d="M30,0h-8l-2,2v8L10,0H2L0,2v28l2,2h8l2-2v-8l10,10h8l2-2V2L30,0z"/>
+	<path fill="#F89938" d="M44,32h8l2-2v-6l10-10V2l-2-2h-8l-2,2v4l-4,4l-4-4l0,0V2l-2-2h-8l-2,2v12l10,10v6L44,32z"/>
+</svg>
